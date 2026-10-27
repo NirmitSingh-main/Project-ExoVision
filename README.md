@@ -71,13 +71,7 @@ ExoVision/
 
 ---
 
-## 📈 Current Status
 
-🚧 Project is under active development.
-
-The initial focus is establishing strong classical baselines before integrating Quantum Neural Networks for comparative evaluation.
-
----
 
 ## 📜 License
 
